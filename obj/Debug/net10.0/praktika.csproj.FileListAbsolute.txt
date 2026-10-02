@@ -1,0 +1,14 @@
+/Users/macbook/Desktop/week4/day5/praktika/bin/Debug/net10.0/praktika
+/Users/macbook/Desktop/week4/day5/praktika/bin/Debug/net10.0/praktika.deps.json
+/Users/macbook/Desktop/week4/day5/praktika/bin/Debug/net10.0/praktika.runtimeconfig.json
+/Users/macbook/Desktop/week4/day5/praktika/bin/Debug/net10.0/praktika.dll
+/Users/macbook/Desktop/week4/day5/praktika/bin/Debug/net10.0/praktika.pdb
+/Users/macbook/Desktop/week4/day5/praktika/obj/Debug/net10.0/praktika.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/week4/day5/praktika/obj/Debug/net10.0/praktika.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/week4/day5/praktika/obj/Debug/net10.0/praktika.AssemblyInfo.cs
+/Users/macbook/Desktop/week4/day5/praktika/obj/Debug/net10.0/praktika.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/week4/day5/praktika/obj/Debug/net10.0/praktika.dll
+/Users/macbook/Desktop/week4/day5/praktika/obj/Debug/net10.0/refint/praktika.dll
+/Users/macbook/Desktop/week4/day5/praktika/obj/Debug/net10.0/praktika.pdb
+/Users/macbook/Desktop/week4/day5/praktika/obj/Debug/net10.0/praktika.genruntimeconfig.cache
+/Users/macbook/Desktop/week4/day5/praktika/obj/Debug/net10.0/ref/praktika.dll
